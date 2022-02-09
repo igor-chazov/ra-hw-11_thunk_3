@@ -1,5 +1,5 @@
 # 11. Домашнее задание к лекции «Redux и Redux Thunk»
-[[GithubPages](https://igor-chazov.github.io/ra-hw-11_thunk_3)]
+[![Build status](https://ci.appveyor.com/api/projects/status/jhb0ut2sjvwplqhe?svg=true)](https://ci.appveyor.com/project/igor-chazov/ra-hw-11-thunk-3) [[GithubPages](https://igor-chazov.github.io/ra-hw-11_thunk_3)]
 
 ---
 
